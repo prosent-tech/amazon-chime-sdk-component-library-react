@@ -131,12 +131,12 @@ const fontSizes = {
   },
 
   text: {
-    fontSize: '0.875rem',
+    fontSize: '16px',
     lineHeight: '1.43',
   },
 
   label: {
-    fontSize: '0.875rem',
+    fontSize: '16px',
     lineHeight: '1.43',
   },
 
