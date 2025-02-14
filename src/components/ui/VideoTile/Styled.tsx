@@ -20,7 +20,7 @@ export const StyledVideoTile = styled.div<VideoTileProps>`
     right: 0;
     bottom: 0;
     width: 100%;
-    height: 100%;
+    height: 300px;
     object-fit: ${(props) => props.objectFit || 'cover'}};
   }
 
